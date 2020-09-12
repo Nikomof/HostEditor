@@ -1,0 +1,4 @@
+0.0.0.0 www.test1.dk
+0.0.0.0 www.test2.dk
+0.0.0.0 www.test3.dk
+0.0.0.0 ww.test4.dk
